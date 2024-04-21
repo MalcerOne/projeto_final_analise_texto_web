@@ -2,8 +2,8 @@
 Projeto Final da eletiva Análise de texto de fontes desestruturadas e web.
 
 # Integrantes
-Rafael Malcervelli
-Manuel 
+Rafael Malcervelli<br>
+Manuel Castanares
 
 # Descricao
 A montagem de um PC gamer envolve a escolha criteriosa de componentes que não apenas ofereçam o melhor desempenho, mas também representem um custo-benefício atraente. Com a volatilidade dos preços de hardware e a variedade de produtos disponíveis, consumidores enfrentam dificuldades em identificar as melhores opções de compra em um dado momento. Este projeto visa desenvolver uma prova de conceito que utilize técnicas de web scraping e análise de texto para extrair dados de múltiplos marketplaces e avaliações de produtos, permitindo uma comparação de preços, disponibilidade de estoque, e a qualidade percebida dos componentes através das reviews de usuários.
