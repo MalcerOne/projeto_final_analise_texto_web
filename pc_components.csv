@@ -1,0 +1,91 @@
+Name of product,Product type,Price (R$)
+"Placa Mãe MSI A520M-A PRO, AMD AM4, mATX, DDR4",motherboard,379.99
+"Placa Mãe Gigabyte B550M Aorus Elite, AMD AM4, Micro ATX, DDR4",motherboard,849.99
+"Placa Mãe MSI B560M PRO-E, Intel LGA 1200, mATX, DDR4",motherboard,479.99
+"Placa Mãe ASRock B450M Steel Legend, AMD AM4, mATX, DDR4",motherboard,659.99
+"Placa Mãe Asus TUF GAMING A520M-PLUS II, AMD AM4, mATX, DDR4",motherboard,599.99
+"Placa Mãe ASRock B450M-HDV R4.0, AMD AM4, Micro ATX, DDR4",motherboard,359.99
+"Placa-Mãe MSI MPG B550 Gaming Plus, AMD AM4, ATX",motherboard,999.99
+"Placa Mãe Gigabyte B450M DS3H V2, AMD B450, mATX, DDR4, (rev. 1.0)",motherboard,529.99
+"Placa Mãe Gigabyte H610M (rev. 1.0), Intel LGA1700, H610, DDR4, mATX - H610M H DDR4",motherboard,529.99
+"Placa-Mãe Asus TUF Gaming B450M-Plus II, AMD AM4, mATX, DDR4",motherboard,649.99
+"Processador AMD Ryzen 7 5700X3D, 3.6 GHz, (4.1GHz Max Turbo), Cachê 4MB, 8 Núcleos, 16 Threads, AM4 - 100-100001503WOF",cpu,1349.99
+"Processador AMD Ryzen 5 4600G, 3.7GHz (4.2GHz Max Turbo), Cache 11MB, AM4, Vídeo Integrado - 100-100000147BOX",cpu,579.99
+"Processador AMD Ryzen 5 5600, 3.5GHz (4.4GHz Max Turbo), Cache 35MB, AM4, Sem Vídeo - 100-100000927BOX",cpu,849.99
+"Processador AMD Ryzen 5 5500, 3.6GHz (4.2GHz Max Turbo), Cache 19MB, AM4, Sem Vídeo - 100-100000457BOX",cpu,648.99
+"Processador AMD Ryzen 5 5600GT, 3.6 GHz, (4.6GHz Max Turbo), Cachê 4MB, 6 Núcleos, 12 Threads, AM4 - 100-100001488BOX",cpu,796.99
+"Processador Intel Core i5-10400F, 2.9GHz (4.3GHz Max Turbo), Cache 12MB, 6 Núcleos, 12 Threads, LGA 1200 - BX8070110400F",cpu,524.99
+"Processador AMD Ryzen 5 4500, 3.6GHz (4.1GHz Max Turbo) Cache 11MB, AM4, Sem Vídeo - 100-100000644BOX",cpu,448.99
+"Processador AMD Ryzen 7 5700X, 3.4GHz (4.6GHz Max Turbo), Cache 36MB, AM4, Sem Vídeo - 100-100000926WOF",cpu,2070.26
+"Processador Intel Core i5-12400F, 2.5GHz (4.4GHz Max Turbo), Cache 18MB, LGA 1700 - BX8071512400F",cpu,775.99
+"Processador AMD Ryzen 5 5600X, 3.7GHz (4.6GHz Max Turbo), Cache 35MB, 6 Núcleos, 12 Threads, AM4 - 100-100000065BOX",cpu,998.99
+"Placa de Vídeo RX 6600 CLD 8G ASRock AMD Radeon, 8GB, GDDR6  - 90-GA2RZZ-00UANF",gpu,1349.99
+"Placa de Vídeo RX 6600 V2 ASUS Dual AMD Radeon, 8GB GDDR6  - 90YV0GP2-M0NA00",gpu,1279.99
+"Placa de Vídeo GTX 1650 D6 Ventus XS OCV3 MSI NVIDIA GeForce, 4GB GDDR6, G- Sync - 912-V812-003",gpu,839.99
+"Placa de Vídeo RX7600 ASUS Dual Radeon, 8GB GDDR6 - 90YV0IH2-M0NA00",gpu,1799.99
+"Placa de Vídeo RTX 3060 Ventus 2X MSI NVIDIA GeForce,  12GB GDDR6, DLSS, Ray Tracing - RTX 3060 Ventus 2X 12G OC",gpu,1799.99
+"Placa de vídeo RTX 4060 ASUS Dual O8G EVO NVIDIA GeForce, 8GB GDDR6, G-SYNC, Ray Tracing - 90YV0JC7-M0NA00",gpu,2299.99
+"Placa de Vídeo RTX 4060 VENTUS 2x Black OC MSI NVIDIA GeForce, 8GB GDDR6, DLSS, Ray Tracing",gpu,1849.99
+"Placa de Vídeo RX 6750XT Gaming XFX Graphics Card AMD Radeon, 12GB GDDR6, Ray tracing, Fidelity FX - RX-675TMBAF9",gpu,2999.99
+"Placa de Vídeo Gigabyte Radeon RX 6600 EAGLE AMD, 8GB GDDR6, Preto - GV-R66EAGLE-8GD",gpu,1399.99
+"Placa de Vídeo RTX 4060 1-Click OC 1X Galax NVIDIA GeForce, 8GB GDDR6, DLSS, Ray Trancing, G-Sync",gpu,1899.99
+"Memória RAM Kingston Fury Beast, 8GB, 3200MHz, DDR4, CL16, Preto - KF432C16BB/8",ram,159.99
+"Memória RAM XPG Gammix D35, 8GB, 3200MHz, DDR4, CL16, Preto - AX4U32008G16A-SBKD35",ram,149.99
+"Memória RAM Rise Mode Z, 8GB, 3200MHz, DDR4, CL16, Preto - RM-D4-8G-3200Z",ram,135.99
+"Memória RAM Rise Mode, 8GB, 1600MHz, DDR3, CL11 - RM-D3-8G1600V",ram,59.99
+"Memória RAM Rise Mode Z, 16GB, 3200MHz, DDR4, CL16, Preto - RM-D4-16G-3200Z",ram,219.99
+"Memória RAM Kingston Fury Beast, 16GB, 3200MHz, DDR4, CL16, Preto - KF432C16BB1/16",ram,279.99
+"Memória RAM XPG Spectrix D35G, RGB, 16GB, 3200MHz, DDR4, CL16, Preto - AX4U320016G16A-SBKD35G",ram,279.99
+"Memória RAM para Notebook Kingston Fury Impact, 16GB, 3200MHz, DDR4, CL20 - KF432S20IB/16",ram,269.99
+"Memória RAM Kingston Fury Beast, RGB, 8GB, 3200MHz, DDR4, CL16, Preto - KF432C16BB2A/8",ram,159.99
+"Memória RAM Para Notebook Kingston Fury Impact, 8GB, 3200MHz, DDR4, CL20 - KF432S20IB/8",ram,152.99
+"SSD Externo Portátil SanDisk Extreme PRO V2, 1TB, USB 3.1, Leitura: 2.000 MB/s, Gravação: 2.000 MB/s, Preto e Laranja - SDSSDE81-1T00-G25",ssd,899.99
+"SSD 1 TB Kingston NV2, M.2 2280 PCIe, NVMe, Leitura: 3500 MB/s e Gravação: 2100 MB/s - SNV2S/1000G",ssd,399.99
+"SSD 480 GB Kingston A400, SATA, Leitura: 500MB/s e Gravação: 450MB/s - SA400S37/480G",ssd,229.99
+"SSD 240 GB Kingston A400, SATA, Leitura: 500MB/s e Gravação: 350MB/s - SA400S37/240G",ssd,169.99
+"SSD 500 GB Kingston NV2, M.2 2280 PCIe, NVMe, Leitura: 3500 MB/s e Gravação: 2100 MB/s - SNV2S/500G",ssd,279.99
+"SSD 960 GB Kingston A400, SATA, Leitura: 500MB/s e Gravação: 450MB/s - SA400S37/960G",ssd,389.99
+"SSD 128GB KBM! Gaming, SATA III, Leitura 570 MB/s, Gravação 500 MB/s - KGSSD100128",ssd,79.99
+"SSD 240 GB Adata SU650, SATA, Leitura: 520MB/s e Gravação: 450MB/s - ASU650SS-240GT-R",ssd,139.99
+"SSD 1TB KBM! Gaming, M.2 NVMe, PCIe, Leitura 2400 MB/s, Gravação 1800 MB/s - KGSSD300100",ssd,399.99
+"SSD 480GB WD Green PC SN350, PCIe, NVMe, Leitura: 2400MB/s e Gravação: 1650MB/s - WDS480G2G0C",ssd,219.99
+"Fonte MSI MAG A650BN, 650W, 80 Plus Bronze, PFC Ativo, com cabo, Preto - 306-7ZP2B22-CE0",power_supply,279.99
+"Fonte MSI MAG A850GL, 850W, 80 Plus Gold, Modular, PFC Ativo, com cabo, Preto",power_supply,639.99
+"Fonte XPG Kyber, 850W, 80 Plus Gold, Com Cabo, Preto - KYBER850G-BKCBR",power_supply,529.99
+"Fonte MSI MAG A500DN, 500W, 80 Plus White, PFC Ativo, Com Cabo, Preto - 306-7ZP6A22-809",power_supply,249.99
+"Fonte Corsair CV550, 550W, 80 Plus Bronze, PFC Ativo, com cabo, Preto - CP-9020210-BR",power_supply,349.99
+"Fonte Corsair CV650, 650W, 80 Plus Bronze, com cabo, Preto - CP-9020236-BR",power_supply,409.99
+"Fonte XPG Core Reactor, 850W, 80 Plus Gold, Modular, com cabo, Preto - Core Reactor",power_supply,699.99
+"Fonte Gamemax GS600, 600W, 80 Plus White, PFC Ativo, com cabo, Preto - GS600",power_supply,249.99
+"Fonte Corsair CX Series CX750, 750W, 80 Plus Bronze, Com Cabo, Preto - CP-9020279-BR",power_supply,489.99
+"Fonte Gigabyte GP-P450B, 450W, 80 Plus Bronze, PFC ativo, com cabo, Preto - 28200-P450B-1BRR",power_supply,249.99
+"Air Cooler Rise Mode Gamer G800, RGB, AMD/Intel, 90mm, Preto - RM-AC-O8-RGB",cpu_cooler,72.99
+"Air Cooler Rise Mode Gamer G700, LED Azul, AMD/Intel, 180mm, Preto - RM-AC-O7-FB",cpu_cooler,59.99
+"Air Cooler Rise Mode Z2, AMD/Intel, 80mm, Preto - RM-ACZ-02-BO",cpu_cooler,29.99
+"Air Cooler Rise Mode Gamer Z4, AMD/Intel, 120mm, Branco - RM-ACZ-Z4-BW",cpu_cooler,28.99
+"Air Cooler Rise Mode Gamer G200, RGB, AMD/Intel, 120mm, Preto - RM-AC-O2-RGB",cpu_cooler,72.99
+"Air Cooler Gamer Rise Mode X5, RGB, AMD/Intel, Preto - RM-ACX-05-RGB",cpu_cooler,49.99
+"Air Cooler Gamer Rise Mode Storm 8 Black, Intel/AMD, 120mm, Preto - RM-ACST-B",cpu_cooler,189.99
+"Air Cooler Rise Mode G800, ARGB, AMD/Intel, Preto - RM-ACG8-ARGB-B",cpu_cooler,72.99
+"Air Cooler Gamer Rise Mode Z5, LED Rainbow, AMD/Intel, 90mm, Preto - RM-ACZ-Z5-RGB",cpu_cooler,39.99
+"Air Cooler Gamer Rise Mode X5, LED Azul, AMD/Intel, 120mm, Preto - RM-ACX-05-BB",cpu_cooler,49.99
+"Ventoinha Rise Mode Wind W1, 120mm, LED Branco, Preto - RM-WN-01-BW",fan,7.99
+"Kit Com 3 Ventoinhas Rise Mode, 120mm, RGB, Preto - RM-FN-02-RGB",fan,84.99
+"Ventoinha Rise Mode Black, 80mm, Preto - RM-BK-02-FB",fan,3.99
+"Kit Com 3 Ventoinhas Rise Mode Laser, 120mm, ARGB, Preto - RM-RGB-05-5V",fan,69.99
+"Kit com 3 Ventoinhas Rise Mode X, 120mm, Led ARGB, Branco - RM-XLD-02-ARGB",fan,42.99
+"Ventoinha Rise Mode Wind W1, 120mm, LED Azul, Preto - RM-WN-01-BB",fan,9.99
+"Kit com 3 Ventoinhas Rise Mode X, 120mm, Led ARGB, Preto - RM-XLD-01-ARGB",fan,39.99
+"Ventoinha Rise Mode, 120mm, Branco - RM-FN-01-BW",fan,15.99
+"Ventoinha Rise Mode Galaxy Motherboard, 120mm, RGB, Preto - RM-MB-01-12V",fan,17.99
+"Ventoinha Rise Mode Hex, ARGB, 120mm, Preto - RM-FC-01-5V",fan,39.99
+"Gabinete Gamer Rise Mode Glass 06X, Mid Tower, Lateral em Vidro Fumê e Frontal em Vidro Temperado, Preto - RM-CA-06X-FB",case,149.9
+"Gabinete Gamer Rise Mode Galaxy Glass M Mini, M-ATX, Lateral e Frontal em Vidro Temperado, Preto - RM-GA-GGMN-FB",case,199.9
+"Gabinete Gamer Rise Mode Galaxy Glass, Mid Tower, Lateral e Frontal em Vidro Temperado, Preto - RM-GA-GG-FB",case,399.9
+"Gabinete Gamer Rise Mode Galaxy Glass M Mini, M-ATX, Lateral e Frontal em Vidro Temperado, Branco - RM-GA-GGMN-FW",case,199.9
+"Gabinete Gamer Rise Mode Galaxy Glass Standard, Mid Tower, ARGB, ATX, Lateral e Frontal em Vidro, 10x Cooler Fan, Branco - RM-GA-GGSW-ARGB",case,529.9
+"Gabinete Gamer Rise Mode Glass 06x, Mid Tower, ARGB, ATX, Lateral e Frente em Vidro, 6x Fans, Preto - RM-CA-06XB-ARGB",case,279.9
+"Gabinete Gamer Rise Mode Z3 Glass, Lateral em Vidro Fumê, Preto - RM-Z03-03-FB",case,169.9
+"Gabinete Gamer Rise Mode Wave White, Mid Tower, ARGB, ATX, 3 Cooler Fan ARGB, Branco - RM-WA-BW-ARGB",case,159.9
+"Gabinete Gamer Rise Mode Galaxy Glass, Mid Tower, Lateral e Frontal em Vidro Temperado, Branco - RM-GA-GG-FW",case,399.9
+"Gabinete Gamer Rise Mode X5 Glass, RGB, Lateral em Vidro Fumê, Preto - RM-X5-05-FB",case,199.99
